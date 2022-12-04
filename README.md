@@ -1,6 +1,6 @@
 # Clustering without Target Variables
 ### Clustering on Bank Customer data <br>
-In this problem set, we are trying to find out the best clusters for this dataset. <br>
+- In this problem set, we are trying to find out the best clusters for this dataset. <br>
 Different clustering mehtods were evaluated using the Silhoutte and Inertia Scores for different values of K. <br>
 
 <img width=500 src='https://user-images.githubusercontent.com/112804900/205485314-bb9be68b-ac93-4b7d-9145-c49564c4fd5c.jpg'>
