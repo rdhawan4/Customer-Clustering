@@ -40,3 +40,6 @@ The Following are the input parameters for the clustering: <br>
 
 ![image](https://user-images.githubusercontent.com/112804900/205485193-515df4a8-5dce-47b0-acb0-d668b57eeb22.png)
 
+Note
+Main Testcode : BankCustomer_Clustering.ipynb
+Datasets available in Data folder
