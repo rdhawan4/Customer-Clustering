@@ -34,7 +34,7 @@ The Following are the input parameters for the clustering: <br>
 
 ![image](https://user-images.githubusercontent.com/112804900/205485170-0d7bb3d1-40e7-4cf2-b4c9-8554e4c2f91d.png)
 
-## Evaluating seperation of Clsuters
+## Evaluating separation of K Clusters
 
 ![image](https://user-images.githubusercontent.com/112804900/205485175-6d95b027-45ee-4e40-82a1-551a38547ec8.png)
 
